@@ -1,0 +1,14 @@
+F:\OAP\Ind\1\1\bin\Debug\1.exe.config
+F:\OAP\Ind\1\1\bin\Debug\1.exe
+F:\OAP\Ind\1\1\bin\Debug\1.pdb
+F:\OAP\Ind\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+F:\OAP\Ind\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+F:\OAP\Ind\1\1\obj\Debug\1.exe
+F:\OAP\Ind\1\1\obj\Debug\1.pdb
+F:\OAP\Ind\pr-32_prakt_ind_1_var16_OAP_Kolyasnikova.V\1\1\bin\Debug\1.exe.config
+F:\OAP\Ind\pr-32_prakt_ind_1_var16_OAP_Kolyasnikova.V\1\1\bin\Debug\1.exe
+F:\OAP\Ind\pr-32_prakt_ind_1_var16_OAP_Kolyasnikova.V\1\1\bin\Debug\1.pdb
+F:\OAP\Ind\pr-32_prakt_ind_1_var16_OAP_Kolyasnikova.V\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+F:\OAP\Ind\pr-32_prakt_ind_1_var16_OAP_Kolyasnikova.V\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+F:\OAP\Ind\pr-32_prakt_ind_1_var16_OAP_Kolyasnikova.V\1\1\obj\Debug\1.exe
+F:\OAP\Ind\pr-32_prakt_ind_1_var16_OAP_Kolyasnikova.V\1\1\obj\Debug\1.pdb
